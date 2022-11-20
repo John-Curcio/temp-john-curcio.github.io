@@ -1,7 +1,7 @@
 ---
 id: 0
-title: "HELLO WORLD"
-subtitle: "Sed sit amet arcu a diam tincidunt porta"
+title: "inaugural post"
+subtitle: "idk"
 date: "2019.12.08"
 tags: "tag1, tag2"
 ---
