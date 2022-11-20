@@ -1,6 +1,6 @@
 ---
 id: 0
-title: "Lorem ipsum 0"
+title: "HELLO WORLD"
 subtitle: "Sed sit amet arcu a diam tincidunt porta"
 date: "2019.12.08"
 tags: "tag1, tag2"
@@ -21,6 +21,11 @@ Suspendisse porttitor pellentesque ante, dapibus ullamcorper risus commodo eu. D
 * Suspendisse pretium consectetur est.
 
 Quisque imperdiet massa `dolor`, sed facilisis $`4 - (log{_2} 2 + 1) = 2`$ mi posuere ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat gravida ipsum id pharetra. Proin tortor lectus, tempor sed sapien et, molestie ullamcorper urna. `Curabitur` et lacinia nulla. Sed ornare vel orci egestas mattis. Praesent luctus elementum mollis. Vestibulum molestie lectus a orci lacinia volutpat.
+
+```python
+if __name__ == "__main__":
+  print("hello world!")
+```
 
 ```rust
 fn main() {
